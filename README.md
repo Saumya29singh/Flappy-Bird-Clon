@@ -62,7 +62,7 @@ The game focuses on basic game mechanics like gravity, collision detection, and 
 ## 💬 Final Note
 "tiny bird, big struggle 🐦💀  
 coded this… still can’t beat it 😭"
-hi
+
 ---
 
 ⭐ If you like this project, don’t forget to star the repo!
